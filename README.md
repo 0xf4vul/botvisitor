@@ -13,7 +13,7 @@ cd botvisitor
 
 chmod +x botvisitor.py
 
-python botvisitor.py  <IP> <Port>
+python botvisitor.py   IpAddress Portnumber
   
   Defalt Tor browser IP and Port
   
