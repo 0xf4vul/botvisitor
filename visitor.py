@@ -20,7 +20,7 @@ ____ ____ ___  _ ___     ____ ____ ____ ____ ____ _  _ ____ ____ ___
 #Default Tor port configuration
 proxyPort=9050
 ctrlPort=9051
-site = raw_input("Enter your Blog Address : ")
+site = raw_input("Enter your Website address with http and https : ")
 blog = input("Enter The number of Viewers : ")
 urllib3.disable_warnings() #disbale ssl warning
 
