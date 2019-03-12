@@ -14,7 +14,10 @@ cd botvisitor
 chmod +x botvisitor.py
 
 python botvisitor.py  <IP> <Port>
+  
   Defalt Tor browser IP and Port
+  
   IP: Tor ip address (127.0.0.1)
+  
   Port: 9050
   
